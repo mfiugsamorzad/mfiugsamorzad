@@ -13,7 +13,7 @@ Budujemy społeczność „coMFI” – chcemy, żeby nasz Wydział był miejsce
 ## 📁 Nasze główne projekty
 Tutaj znajdziesz linki do naszych aktualnych repozytoriów (lista będzie rosnąć!):
 
-* 🌌 **[aMFIteatr Nauki: dr Tomasz Miller]**(https://mfiugsamorzad.github.io/amfitearnauki-dr-tomasz-miller/) – Strona landing page dla otwartego wykładu popularnonaukowego „Niepojęta matematyczność świata” (27.03.2026).
+* 🌌 * 🌌 **[aMFIteatr Nauki: dr Tomasz Miller](https://mfiugsamorzad.github.io/amfitearnauki-dr-tomasz-miller/)** – Strona landing page dla otwartego wykładu popularnonaukowego „Niepojęta matematyczność świata” (27.03.2026). – Strona landing page dla otwartego wykładu popularnonaukowego „Niepojęta matematyczność świata” (27.03.2026).
 * 🍕 **Wkrótce więcej...** – Szykujemy kolejne inicjatywy!
 
 ## 🛠️ Chcesz do nas dołączyć? (Dla studentów MFI)
